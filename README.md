@@ -59,7 +59,7 @@
 ### 🌍 Let's Connect
 
 <p>
-  <a href="mailto:wuchenyanghaoshuai@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40example.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:wuchenyanghaoshuai@gmail.com"><img src="https://img.shields.io/badge/Email-wuchenyanghaoshuai%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ---
